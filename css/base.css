@@ -486,6 +486,11 @@ h2 span:nth-child(even) {
         gap: 1rem;
         text-align: center;
     }
+    
+    .footer-text {
+        white-space: nowrap;
+        font-size: 0.8rem;
+    }
 }
 
 /* RTL support for footer */
