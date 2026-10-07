@@ -1,4 +1,4 @@
-# Marwa Sadok (Mawouta) - Personal Portfolio
+# Marwa Sadok (Marwouta) - Personal Portfolio
 
 A premium, interactive personal portfolio website for Marwa Sadok featuring an ultra-catchy feminine Apple-like UI/UX design, smooth transitions, and multilanguage support (French, English, Arabic).
 
@@ -37,7 +37,7 @@ A premium, interactive personal portfolio website for Marwa Sadok featuring an u
 
 ### Original Concept & Content
 
-- **Marwa Sadok (Mawouta)**
+- **Marwa Sadok (Marwouta)**
 
 ### Enhancement and UI/UX Design
 
