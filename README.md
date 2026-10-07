@@ -1,8 +1,8 @@
-# Amira Nawali (Amoura) - Personal Portfolio
+# Marwa Sadok (Mawouta) - Personal Portfolio
 
-A premium, interactive personal portfolio website for Amira Nawali featuring an ultra-catchy feminine Apple-like UI/UX design, smooth transitions, and multilanguage support (French, English, Arabic).
+A premium, interactive personal portfolio website for Marwa Sadok featuring an ultra-catchy feminine Apple-like UI/UX design, smooth transitions, and multilanguage support (French, English, Arabic).
 
-[Amira Nawali Portfolio]
+[Marwa Sadok Portfolio]
 
 ## Features
 
@@ -37,7 +37,7 @@ A premium, interactive personal portfolio website for Amira Nawali featuring an 
 
 ### Original Concept & Content
 
-- **Amira Nawali (Amoura)**
+- **Marwa Sadok (Mawouta)**
 
 ### Enhancement and UI/UX Design
 
@@ -50,11 +50,11 @@ A premium, interactive personal portfolio website for Amira Nawali featuring an 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Marwenrb/Amira-Portfolio.git
+   git clone https://github.com/Marwenrb/Marwa-Portfolio.git
    ```
 2. Navigate into the inner directory:
    ```bash
-   cd Amira-Portfolio/Maher-Lamouchi---Personal-Portfolio-main
+   cd Marwa-Portfolio/Maher-Lamouchi---Personal-Portfolio-main
    ```
 3. Start a local server (e.g. `npx serve` or `python -m http.server`) to avoid CORS issues with ES6 modules.
 4. Open `http://localhost:3000` (or the port specified by your server) in your browser.
