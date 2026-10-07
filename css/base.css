@@ -468,12 +468,28 @@ h2 span:nth-child(even) {
     transform-origin: left;
 }
 
+
+
+/* RTL support for footer */
+.rtl .footer-top,
+.rtl .footer-bottom {
+    flex-direction: row-reverse;
+}
+
+.rtl .footer-link::after {
+    transform-origin: left;
+}
+
+.rtl .footer-link:hover::after {
+    transform-origin: right;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .footer-top {
         flex-direction: column;
         gap: 2rem;
-        align-items: flex-start;
+        align-items: center;
     }
     
     .footer-nav ul {
@@ -489,22 +505,8 @@ h2 span:nth-child(even) {
     
     .footer-text {
         white-space: nowrap;
-        font-size: 0.8rem;
+        font-size: 0.75rem;
     }
-}
-
-/* RTL support for footer */
-.rtl .footer-top,
-.rtl .footer-bottom {
-    flex-direction: row-reverse;
-}
-
-.rtl .footer-link::after {
-    transform-origin: left;
-}
-
-.rtl .footer-link:hover::after {
-    transform-origin: right;
 }
 
 .rtl .logo-svg {
